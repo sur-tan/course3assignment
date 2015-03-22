@@ -372,7 +372,7 @@ The tidy data are transformed from the raw data through the following process:
   
   Numeric values range from between -1 to 1.
   
-* FftBodyBodyGyroMagStdDev 
+* FftBodyBodyGyroMagStdDev     
   The average of a particular subject and a particular activity performed on the standard deviation value of the magnitutude (calculated using Euclidean norm) calculated from the Fourier Transform (FFT) applied on the body acceleration signals from a gyroscope.
   
   Numeric values range from between -1 to 1.
