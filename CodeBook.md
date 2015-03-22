@@ -282,7 +282,7 @@ The tidy data are transformed from the raw data through the following process:
   
   Numeric values range from between -1 to 1.
   
-* FftBodyAccStdDev-Z 
+* FftBodyAccStdDev-Z  
   The average of a particular subject and a particular activity performed on the standard deviation value of the Fourier Transform (FFT) applied on the body acceleration signals from an accelerometer for Z direction (one of the 3 axial signals).
   
   Numeric values range from between -1 to 1.
@@ -313,7 +313,7 @@ The tidy data are transformed from the raw data through the following process:
   Numeric values range from between -1 to 1.
   
 * FftBodyAccJerkStdDev-Z   
-  Standard deviation value of the Fourier Transform (FFT) applied on the the jerk signal obtained from body acceleration signals from an accelerometer for Z direction (one of the 3 axial signals).
+  The average of a particular subject and a particular activity performed on the standard deviation value of the Fourier Transform (FFT) applied on the the jerk signal obtained from body acceleration signals from an accelerometer for Z direction (one of the 3 axial signals).
   
   Numeric values range from between -1 to 1.
   
